@@ -1,0 +1,13 @@
+@import "compass/css3";
+@import url(https://fonts.googleapis.com/css?family=Oswald|Roboto);
+
+*{
+    width: 600px;
+  height: 320px;
+  padding: 10px 15px;
+  }
+
+  body{
+    background-color: #fff;
+    position: absolute;
+}
